@@ -54,7 +54,7 @@ When the same phone number is entered again, the program skips asking for custom
 
 ![image](https://github.com/polimteo/freecodecamp-salon-appointment--scheduler/assets/167663336/0b4df785-51c3-420a-a13f-16a252cedc81)
 
-Then, a new appointment is sucessfully inserted into the **appointment table** with the same.
+Then, a new appointment is sucessfully inserted into the **appointment table**.
 
 ![image](https://github.com/polimteo/freecodecamp-salon-appointment--scheduler/assets/167663336/01423161-9cb5-41ae-89e6-48a16539610b)
 
