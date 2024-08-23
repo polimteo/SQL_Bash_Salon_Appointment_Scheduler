@@ -4,7 +4,7 @@ Create Database and Tables
 -
 A database named **salon** is created. 
 
-There are **three** tables: **appointments**, **custormers** and **sevices**.
+There are **three** tables: **appointments**, **customers** and **sevices**.
 
 Initially, I inserted the services that the salon provided into the **services** table.
 
